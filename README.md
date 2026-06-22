@@ -83,6 +83,10 @@ cost of ~44 % longer traversal, while formation accuracy and safety stay within
 noise of the baseline. Full method, reproduction commands, and per-seed data are
 in [`simulation/EXPERIMENTS.md`](simulation/EXPERIMENTS.md); the conversion
 itself is documented in [`simulation/ROBOTIC_FISH.md`](simulation/ROBOTIC_FISH.md).
+A focused write-up of just this study lives in
+[`simulation/paper/`](simulation/paper/) ("Dynamic-Envelope Re-Tuning of a
+Graph-Theoretic Swarm") — distinct from the broader unified manuscript in
+`papers/unified/`.
 
 ---
 
