@@ -2,8 +2,8 @@
 
 ### Integrating Biomimetic Locomotion, Hierarchical Path Planning, and an Adaptive Cross-Domain Communication Protocol
 
-**Authors:** I. Harihara Sudar, Mervin Joe Thomas, Chinmay K,
-Nanigiri Laxmi Narayana Charan, Rishi, and Harsh Soni
+**Authors:** I. Harihara Sudar, Harsh Soni, Chinmay K, Rishi Charan,
+Laxmi Narayana Charan, and Mervin Joe Thomas
 *(Robotics Lab, Dept. of Mechanical Engineering, National Institute of
 Technology Karnataka — NITK, Surathkal, India)*
 Corresponding author: Mervin Joe Thomas (`mervinthomas@nitk.edu.in`)
@@ -196,8 +196,8 @@ Conversion details and the live-RViz demo commands are in
   title   = {A Unified Hybrid Aerial--Aquatic Swarm Architecture Integrating
              Biomimetic Locomotion, Hierarchical Path Planning, and an Adaptive
              Cross-Domain Communication Protocol},
-  author  = {Sudar, I. Harihara and Thomas, Mervin Joe and K, Chinmay and
-             Charan, Nanigiri Laxmi Narayana and Rishi and Soni, Harsh},
+  author  = {Sudar, I. Harihara and Soni, Harsh and K, Chinmay and
+             Charan, Rishi and Charan, Laxmi Narayana and Thomas, Mervin Joe},
   year    = {2026}
 }
 ```
