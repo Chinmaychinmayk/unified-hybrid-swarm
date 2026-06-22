@@ -1,0 +1,9 @@
+build/
+devel/
+.vscode/
+
+# experiment: run logs, superseded data, python cache
+*.log
+experiment/results_60s_*/
+**/__pycache__/
+*.pyc

@@ -1,0 +1,18 @@
+# Build / IDE
+build/
+devel/
+.vscode/
+**/__pycache__/
+*.pyc
+
+# Logs and superseded experiment data
+*.log
+simulation/experiment/results_60s_*/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz

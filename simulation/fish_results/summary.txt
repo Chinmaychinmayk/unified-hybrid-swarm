@@ -1,0 +1,5 @@
+# Robotic-fish school formation summary
+
+start : centroid=(-19.92, -0.02)  mean_pair_dist=4.00  min=2.89  max=5.97
+mid   : centroid=(-0.73, 0.09)  mean_pair_dist=4.62  min=3.08  max=7.09
+end   : centroid=(18.20, -0.01)  mean_pair_dist=4.10  min=2.96  max=6.10
