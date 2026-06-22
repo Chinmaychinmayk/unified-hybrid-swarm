@@ -2,18 +2,18 @@
 
 ### Integrating Biomimetic Locomotion, Hierarchical Path Planning, and an Adaptive Cross-Domain Communication Protocol
 
-**Authors:** I. Harihara Sudar, Harsh Soni, Chinmay K, Rishi Charan,
-Laxmi Narayana Charan, and Mervin Joe Thomas
+**Authors:** I. Harihara Sudar, Mervin Joe Thomas, Chinmay K,
+Nanigiri Laxmi Narayana Charan, Rishi, and Harsh Soni
 *(Robotics Lab, Dept. of Mechanical Engineering, National Institute of
 Technology Karnataka — NITK, Surathkal, India)*
 Corresponding author: Mervin Joe Thomas (`mervinthomas@nitk.edu.in`)
 
 This repository is the complete, reproducible companion to the journal paper —
 the manuscript, the swarm-formation simulation, the physical-robot CAD, and the
-demo videos, all in one place.
+demo stills, all in one place.
 
 <p align="center">
-  <img src="media/videos/04_experiment_baseline_vs_fish_playback.gif" width="85%"/><br/>
+  <img src="media/images/04_experiment_baseline_vs_fish_playback.png" width="85%"/><br/>
   <em>Baseline quadrotor swarm (left) vs. the robotic-fish swarm (right) executing the same formation-flight task.</em>
 </p>
 
@@ -23,7 +23,7 @@ demo videos, all in one place.
 
 - [Abstract](#abstract)
 - [Key contributions](#key-contributions)
-- [Demo videos](#demo-videos)
+- [Demo stills](#demo-stills)
 - [Simulation results](#simulation-results)
 - [Hardware & CAD](#hardware--cad)
 - [Repository map](#repository-map)
@@ -61,23 +61,13 @@ and rescue, and coastal surveillance.
 
 ---
 
-## Demo videos
+## Demo stills
 
-All clips also live in [`media/videos/`](media/videos/) (stored as GIF so they
-render inline here and in the paper). Conversion-to-MP4 commands for YouTube are
-in [`media/videos/README.md`](media/videos/README.md).
+Representative frames from each demo run live in
+[`media/images/`](media/images/).
 
-### 1 — Seven-agent hexagon school holding formation
-<p align="center"><img src="media/videos/01_sim_hexagon_formation.gif" width="70%"/></p>
-
-### 2 — Navigating the random-forest obstacle field
-<p align="center"><img src="media/videos/02_sim_hexagon_forest_navigation.gif" width="70%"/></p>
-
-### 3 — Interactive "2D Nav Goal" target selection in RViz
-<p align="center"><img src="media/videos/03_sim_set_goal_navigation.gif" width="70%"/></p>
-
-### 4 — Baseline quadrotor vs. robotic fish (side-by-side playback, seed 1)
-<p align="center"><img src="media/videos/04_experiment_baseline_vs_fish_playback.gif" width="80%"/></p>
+### Baseline quadrotor vs. robotic fish (side-by-side playback, seed 1)
+<p align="center"><img src="media/images/04_experiment_baseline_vs_fish_playback.png" width="80%"/></p>
 
 ---
 
@@ -171,7 +161,7 @@ The physical platform's mechanical design is in
 | [`simulation/`](simulation/) | Robotic-fish swarm-formation simulation (ROS/EGO-Swarm re-skin) + the baseline-vs-fish experiment. Start at [`simulation/PROJECT_GUIDE.md`](simulation/PROJECT_GUIDE.md). |
 | [`simulation/paper/`](simulation/paper/) | Focused write-up of just the simulation study ("Dynamic-Envelope Re-Tuning of a Graph-Theoretic Swarm") — distinct from the unified manuscript. |
 | [`hardware/cad/`](hardware/cad/) | Physical-robot CAD (SolidWorks / STL / DXF / Parasolid). |
-| [`media/videos/`](media/videos/) | Demo clips (GIF) for YouTube and the journal supplement. |
+| [`media/images/`](media/images/) | Representative demo stills (PNG) for the README and the journal supplement. |
 
 ---
 
@@ -206,8 +196,8 @@ Conversion details and the live-RViz demo commands are in
   title   = {A Unified Hybrid Aerial--Aquatic Swarm Architecture Integrating
              Biomimetic Locomotion, Hierarchical Path Planning, and an Adaptive
              Cross-Domain Communication Protocol},
-  author  = {Sudar, I. Harihara and Soni, Harsh and K, Chinmay and
-             Charan, Rishi and Charan, Laxmi Narayana and Thomas, Mervin Joe},
+  author  = {Sudar, I. Harihara and Thomas, Mervin Joe and K, Chinmay and
+             Charan, Nanigiri Laxmi Narayana and Rishi and Soni, Harsh},
   year    = {2026}
 }
 ```
