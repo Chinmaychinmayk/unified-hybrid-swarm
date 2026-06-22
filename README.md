@@ -196,8 +196,8 @@ Conversion details and the live-RViz demo commands are in
   title   = {A Unified Hybrid Aerial--Aquatic Swarm Architecture Integrating
              Biomimetic Locomotion, Hierarchical Path Planning, and an Adaptive
              Cross-Domain Communication Protocol},
-  author  = {Sudar, I. Harihara and Soni, Harsh and K, Chinmay and
-             Charan, Rishi and Charan, Laxmi Narayana and Thomas, Mervin Joe},
+  author  = {I. Harihara sudhar ,harsh soni Chinmay k and
+             Rishi Charan, Laxmi Narayana charan ,Mervin Joe thomas},
   year    = {2026}
 }
 ```
